@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(154, 136, 196);
+}
+button{
+    background-color: rgb(160, 201, 143);
+    color:rgb(67, 71, 80);
+    padding: 12px 28px;
+    border-radius: 8px;
+}
+table,th,td {
+    border: 1px solid black;;
+}
+
